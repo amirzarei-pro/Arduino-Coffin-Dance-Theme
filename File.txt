@@ -1,1 +1,1 @@
-vless://36f0c9aa-54d2-441d-8c58-dab97300ab9e@dire011.birdapp.top:11012?type=tcp&path=%2F&host=telewebion.com&headerType=http#NE-Sherkat
+vless://41508cee-4a9f-4d03-a71a-1e7113524263@dire011.birdapp.top:11012?type=tcp&path=%2F&host=telewebion.com&headerType=http#NE-Esy
